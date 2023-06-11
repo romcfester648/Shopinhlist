@@ -1,0 +1,28 @@
+button {
+    height: 5%; 
+    width: 10%; 
+    background-color: #00ffff; 
+    border-color: #00ffff;
+}
+body {
+    background-color:#f4f4f4; 
+    color:#111111; 
+    font-family: Arial;
+}
+h6 {
+    color:#ffffff;
+    background: #FFFFE0;
+}
+.vasyl {
+    height: 6%; 
+    width: 18%; 
+    background-color: #e70000; 
+    border-color: #fbff00;
+}
+#petro {
+    height: 6%; 
+    width: 18%; 
+    background-color: #000000; 
+    border-color: #000000;
+    color: #f4f4f4;
+}
